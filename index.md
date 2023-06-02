@@ -5,4 +5,6 @@
 ##### This is H5 Header.
 ###### This is H6 Header.
 
-Add H1 to H6 Header.
+![Image of Fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
+
+Add Image of Fintechtocat.
